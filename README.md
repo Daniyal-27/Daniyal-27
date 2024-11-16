@@ -15,10 +15,10 @@ I hold a **Bachelor's degree in Computer and Information Systems Engineering (BE
 I have gained valuable industry experience through internships at **TPS WorldWide**, **Shispare Private Limited**, and **Unikrew Solutions Private Limited**, where I honed my skills in Android application development and machine learning.
 
 ### 🔍 My Expertise
-- **Android Development:** Proficient in developing dynamic Android applications using **Android Studio** with **Java** as the backend language, extending to AI-powered mobile solutions.
 - **Machine Learning:** Skilled in the entire ML pipeline, from **data collection** to **algorithm evaluation**, with hands-on experience in supervised, unsupervised, and deep learning techniques.
 - **AI Applications:** Specializing in predictive modeling, algorithm optimization, and building scalable models using **Python**, **scikit-learn**, **TensorFlow**, and **Keras**.
 - **Data Analysis & Visualization:** Adept at preprocessing large datasets, performing statistical analysis, and visualizing data trends to derive actionable insights.
+- **Android Development:** Proficient in developing dynamic Android applications using **Android Studio** with **Java** as the backend language, extending to AI-powered mobile solutions.
 
 With a strong passion for **Machine Learning**, I continually seek opportunities to innovate and expand my knowledge in this exciting domain.
 
