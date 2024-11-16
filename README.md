@@ -4,7 +4,7 @@
   <alt="Daniyal Amir" width="200" />
 </p>
 
-Welcome to my GitHub! I’m an enthusiastic **AI/ML Developer** passionate about building intelligent systems and solving real-world problems using computer vision and machine learning. 🚀
+Welcome to my GitHub! I’m an enthusiastic **AI/ML Developer** from Pakistan passionate about building intelligent systems and solving real-world problems using computer vision and machine learning. 🚀
 
 ---
 
