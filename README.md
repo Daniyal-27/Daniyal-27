@@ -76,7 +76,7 @@ With a strong passion for **Machine Learning**, I continually seek opportunities
 **Description:** Real-time detection of shoplifting activities in video streams using YOLO and deep learning techniques.
 
 ### **CIFAR-10 Image Classifier**
-**Description:** Trained a CNN to classify CIFAR-10 images using Keras.
+**Description:** Trained a custom customized deep learning computer vision model to classify CIFAR-10 images using Keras.
 
 ### **Weather Classifier**
 **Description:** Designed a Machine Learning System to classify output for weather dataset.
